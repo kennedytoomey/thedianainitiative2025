@@ -1,5 +1,5 @@
 # The Diana Initiative 2025 - Docs, Demos, and DevRel: The Other Side of Tech
-![image](docs_demos_and_devrel.jpg)
+![image](Docs_Demos_and_DevRel.jpg)
 
 ## Presentation Resources
 - [Slides](Docs_Demos_and_DevRel.pdf)
